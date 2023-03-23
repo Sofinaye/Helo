@@ -1,0 +1,28 @@
+{
+  "name": "Helo",
+  "version": "1.0.0",
+  "description": "- [📖 About the Project](#Hello Microverse)   - [🛠 Built With](Html, css)     - [Tech Stack](#tech-stack)     - [Key Features](#key-features)   - [🚀 Live Demo](#live-demo) - [💻 Getting Started](#getting-started)   - [Setup](#setup)   - [Prerequisites](#prerequisites)   - [Install](#install)",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "hint": "^7.1.5",
+    "stylelint": "^13.13.1",
+    "stylelint-config-standard": "^21.0.0",
+    "stylelint-csstree-validator": "^1.9.0",
+    "stylelint-scss": "^3.21.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Sofinaye/Helo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Sofinaye/Helo/issues"
+  },
+  "homepage": "https://github.com/Sofinaye/Helo#readme"
+}
